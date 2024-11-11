@@ -1,0 +1,10 @@
+body{background-image: url("https://i.ytimg.com/vi/sOlNhcdlcB4/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgQyhSMA8=&rs=AOn4CLDimMYJhxqLSXSOP-i9VGbEg4rOCA");
+ 
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    table{margin: 0 auto;}
+    form{padding: 20px;
+        border-radius: 10px;
+        width: 450px;
+        margin: 0 auto;}
